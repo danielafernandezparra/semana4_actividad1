@@ -1,0 +1,70 @@
+.navbar-logo {
+	width: 70%;
+	padding-top: 6px;
+	padding-left: 15px;
+}
+.header{
+	background-image: url("../images/bg.jpeg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 360px;
+	text-align: center;
+	color: white;
+	padding-top: 85px;
+	margin: -15px;
+}
+.buttons{
+	padding-bottom: 25px;
+}
+.btn {
+	color: white;
+	font-size: 15px;
+	padding: 10px 15px;
+	border-radius: 5px;
+	border:none;
+	background-color: #438ad6;
+}
+.green {
+	background-color: #0eb70e;
+}
+.articulo{
+	text-align: center;
+	padding: 10px;
+}
+.imagen-carrusel .img-responsive {
+	margin-left: 35%;
+	width: 30%;
+}
+.jumbotron {
+	text-align: center;
+	border-bottom: solid;
+	border-top: solid;
+	border-color: #c3c3c3
+}
+.jumbotron p{
+	font-size: 14px;
+}
+.columnas{
+	padding-left: 30px;
+}
+.col-md-6{
+	width: 35%;
+}
+.footer{
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	padding: 10px;
+	padding-left: 100px;
+	margin-top: 20px;
+}
+@media (max-width: 600px){
+	h1,h2 {
+		font-size: 24px;
+	}
+	#sub-info {
+		padding: 10px;
+		color: black;
+	}
+}
